@@ -2,16 +2,14 @@
 
 Priemiro desafio proposto pelo curso DevQuest 🚀
 
-Baseado no desafio do Frontend Mentor, para a criação de uma landing page chamda "Huddle".
+Baseado no desafio do Frontend Mentor, para a criação de uma landing page chamada "Huddle".
 
 ### Modelo para desktop 💻
 <img src="src/design/desktop-design.jpg" width="500px" />
-
 largura: 1440px
 
 ### Modelo para mobile 📱
 <img src="src/design/mobile-design.jpg" width="200px"/>
-
 largura: 375px
 
 ### Estados ativos 🖱️
